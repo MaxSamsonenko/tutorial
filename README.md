@@ -47,10 +47,10 @@ The frontend part of the "Project Foodies" application provides an interface for
 ## Features
 
 - **View Recipes**: Users can browse all available recipes.
-  <img src="./assets/readme/recipe-view.png" />
+  <img src="./readme/recipe-view.png" />
 
 - **Search Recipes**: Users can search recipes by categories, ingredients, or area.
-  <img src="./assets/readme/ingredient-area-search.png" />
+  <img src="./readme/ingredient-area-search.png" />
 
 - **Add Recipes**: Registered users can add new recipes.
   <img src="readme/add-recipe.png" />
